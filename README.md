@@ -1,1 +1,2 @@
-hey im haz0. im new to code, trying some web stuff and python developing!
+## Hey, im Haz0
+new to code, learning web stuff, solidity, and python developing
